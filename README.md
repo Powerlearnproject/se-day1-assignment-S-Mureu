@@ -52,7 +52,7 @@ Track changes to code, allow for collaboration, and enable rollbacks.  
 Examples: Git, Subversion.
 They are essential for team development, and code versioning.
 
- What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Changing requirements.
 Strategy: Use Agile methodologies, prioritize communication, and manage expectations.   
 Technical debt.
